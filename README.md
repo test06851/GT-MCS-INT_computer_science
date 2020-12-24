@@ -19,9 +19,9 @@ Click to download.Maybe your computer's firewall or third-party anti-virus softw
 Well , now you have downloaded "cmp_files.exe" successfully.And you also need to download the HW folder which is a zip-type folder from moodle page.
 
 <img src="image/hw_folder_screenshot.png">
-Once you have downloaded it,one **important** thing here is that you need to unpacked the zip folder.(By right click it and click unpacked .The reason here is that cd command can not access zip-type folder).
+Once you have downloaded it,one **important** thing here is that you need to unpacked the zip folder.(By right click it and click unpacked .The reason here is that cd command can not access zip-type folder).  
 
-<img src="image/unpakced_folder_screenshot.png">
+<img src="image/unpakced_folder_screenshot.png" style ="weidth:50px;height:100px;">
 
 Then,you need to put com_files.exe in the HW folder(unpacked one),make sure you have compiled your program which will create xxx.exe in your current folder.Now , copy your folder path by click the red zone of your window and copy it.  
 
@@ -42,3 +42,10 @@ run the following command
 <img src="image/run_and_cmp_screenshot.png">
 
 Then we would see the result of comparasion.
+
+If the files are the same.  
+
+<img src="image/run_successful_screenshot.png"> 
+If the files have any different.  
+
+<img src="image/run_fail_screenshot.png">
