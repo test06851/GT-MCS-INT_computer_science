@@ -10,7 +10,7 @@
 **where?**
 
 You can find it on moodle page.
-
+<img scr="https://github.com/Arlin-GT/GT-MCS-INT_computer_science/blob/test001/image/cmp_files_screenshot.png" >
 ![](image/cmp_files_screenshot.png)
 
 Click to download.Maybe your computer's firewall or third-party anti-virus software will report a dangerous signal.Never mind,just accept it.  
