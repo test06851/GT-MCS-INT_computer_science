@@ -18,7 +18,7 @@ Click to download.Maybe your computer's firewall or third-party anti-virus softw
 <br>**How to use it?**
 
 Well , now you have downloaded "cmp_files.exe" successfully.And you also need to download the HW folder which is a zip-type folder from moodle page.
-![](image/hw_folder_screenshot.png)
+![](image/hw_folder_screenshot.jpg)
 
 Once you have downloaded it,one **important** thing here is that you need to unpacked the zip folder.(By right click it and click unpacked .The reason here is that cd command can not access zip-type folder).  
 ![](image/unpakced_folder_screenshot.png)
